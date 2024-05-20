@@ -28,13 +28,6 @@ Sci-kit Learn
 
 **Limited Growth Opportunities**: Few employees have been promoted recently, suggesting there aren't many chances to grow within the company. When employees feel stuck, they might leave to find better opportunities elsewhere.
 
-Here are few Visualisations:
-![percentage_of_employees_left_by_years_spent_in_company](https://github.com/Bhagyasri00/Employee_turnover_analysis/assets/142825445/b59473c9-1d44-4e59-9d2d-bd94dea756f4)
-![work_related_incidents_contributing_to_turnover](https://github.com/Bhagyasri00/Employee_turnover_analysis/assets/142825445/d89b4592-4876-4dfa-96f7-8ab3210e56c5)
-![distribution_of_average_monthly_hours_worked](https://github.com/Bhagyasri00/Employee_turnover_analysis/assets/142825445/83b3f320-5730-4572-a125-a35c80bf4d46)
-![count_of_employees_in_each_department](https://github.com/Bhagyasri00/Employee_turnover_analysis/assets/142825445/eeff365b-e9c4-4e88-ad22-1a78f005e585)
-![distribution_of_satisfaction_level](https://github.com/Bhagyasri00/Employee_turnover_analysis/assets/142825445/683f4bb3-43cc-4fba-8c83-0cb59b978703)
-![number_of_projects_per_employee](https://github.com/Bhagyasri00/Employee_turnover_analysis/assets/142825445/84a219de-cb86-4653-9d23-a44ac364a74f)
 
 # Models Used
 
