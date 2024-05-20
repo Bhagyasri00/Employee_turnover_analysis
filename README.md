@@ -28,6 +28,29 @@ Sci-kit Learn
 
 **Limited Growth Opportunities**: Few employees have been promoted recently, suggesting there aren't many chances to grow within the company. When employees feel stuck, they might leave to find better opportunities elsewhere.
 
+# Models Used
+
+For predicting employee turnover, we employed two machine learning models:
+
+1. **Logistic Regression**: A traditional classification algorithm widely used for binary classification tasks. Logistic Regression models the probability of a binary outcome based on one or more predictor variables.
+
+2. **Random Forest**: A powerful ensemble learning method that operates by constructing multiple decision trees during training and outputs the mode of the classes for classification tasks.
+
+These models were trained on our employee turnover dataset to identify patterns and predict potential turnover risks.
+
+## Feature Importance Analysis
+
+The feature importance analysis was performed using the Random Forest model. Random Forest is well-suited for feature importance assessment as it provides a straightforward way to rank the importance of features based on their contribution to the model's predictive performance.
+
+By analyzing feature importance, we gained insights into which factors have the most significant impact on predicting employee turnover. This information is invaluable for understanding the drivers of turnover within the company and informing targeted retention strategies.
+
+
+# Model Performance
+
+The Random Forest model exhibited high accuracy, achieving a score of 98% during testing. This demonstrates the effectiveness of the model in accurately predicting employee turnover and provides valuable insights for retention strategies within the company.
+
+
+
 
 
 
