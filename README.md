@@ -28,6 +28,14 @@ Sci-kit Learn
 
 **Limited Growth Opportunities**: Few employees have been promoted recently, suggesting there aren't many chances to grow within the company. When employees feel stuck, they might leave to find better opportunities elsewhere.
 
+Here are few Visualisations:
+![percentage_of_employees_left_by_years_spent_in_company](https://github.com/Bhagyasri00/Employee_turnover_analysis/assets/142825445/b59473c9-1d44-4e59-9d2d-bd94dea756f4)
+![work_related_incidents_contributing_to_turnover](https://github.com/Bhagyasri00/Employee_turnover_analysis/assets/142825445/d89b4592-4876-4dfa-96f7-8ab3210e56c5)
+![distribution_of_average_monthly_hours_worked](https://github.com/Bhagyasri00/Employee_turnover_analysis/assets/142825445/83b3f320-5730-4572-a125-a35c80bf4d46)
+![count_of_employees_in_each_department](https://github.com/Bhagyasri00/Employee_turnover_analysis/assets/142825445/eeff365b-e9c4-4e88-ad22-1a78f005e585)
+![distribution_of_satisfaction_level](https://github.com/Bhagyasri00/Employee_turnover_analysis/assets/142825445/683f4bb3-43cc-4fba-8c83-0cb59b978703)
+![number_of_projects_per_employee](https://github.com/Bhagyasri00/Employee_turnover_analysis/assets/142825445/84a219de-cb86-4653-9d23-a44ac364a74f)
+
 # Models Used
 
 For predicting employee turnover, we employed two machine learning models:
@@ -43,11 +51,13 @@ These models were trained on our employee turnover dataset to identify patterns 
 The feature importance analysis was performed using the Random Forest model. Random Forest is well-suited for feature importance assessment as it provides a straightforward way to rank the importance of features based on their contribution to the model's predictive performance.
 
 By analyzing feature importance, we gained insights into which factors have the most significant impact on predicting employee turnover. This information is invaluable for understanding the drivers of turnover within the company and informing targeted retention strategies.
+![feature_importance](https://github.com/Bhagyasri00/Employee_turnover_analysis/assets/142825445/68f27af4-08eb-4989-8af0-846126cae4bf)
 
 
 # Model Performance
 
 The Random Forest model exhibited high accuracy, achieving a score of 98% during testing. This demonstrates the effectiveness of the model in accurately predicting employee turnover and provides valuable insights for retention strategies within the company.
+![Screenshot 2024-05-20 102726](https://github.com/Bhagyasri00/Employee_turnover_analysis/assets/142825445/2eba522d-97dc-4989-acd0-ff9d26aa828d)
 
 
 
